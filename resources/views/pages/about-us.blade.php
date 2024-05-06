@@ -1,5 +1,7 @@
 <x-guest-layout>
-
+    <x-template.breadcrumb>
+        <x-slot name="title">About Us</x-slot>
+    </x-template.breadcrumb>
 
     <div class="container">
         <div class="row flex-row-reverse">

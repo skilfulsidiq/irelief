@@ -6,6 +6,7 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', [PageController::class,'homePage'])->name('welcome');
 Route::get('/about-us', [PageController::class,'aboutPage'])->name('about');
+Route::get('/contact-us', [PageController::class,'contactPage'])->name('contact');
 
 Route::get('/dashboard', function () {
     return view('dashboard');
