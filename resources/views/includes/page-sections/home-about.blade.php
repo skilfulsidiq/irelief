@@ -1,4 +1,4 @@
-<div class="" id="about-sec">
+<div class="mt-5" id="about-sec">
     <div class="container">
         <div class="row">
             <div class="col-xl-6">
