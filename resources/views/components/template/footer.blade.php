@@ -1,5 +1,5 @@
  <footer
-      class="footer-wrapper footer-layout7"
+      class="footer-wrapper mt-10 footer-layout7"
       data-bg-src="{{ asset('images/footer/one.jpg')}}"
     >
       <div class="widget-area space-top">
